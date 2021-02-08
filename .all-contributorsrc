@@ -126,6 +126,43 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Trosterud",
+      "name": "Sindre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20249331?v=4",
+      "profile": "https://github.com/Trosterud",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "YannickMeeus",
+      "name": "Yannick Meeus",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/588607?v=4",
+      "profile": "https://github.com/YannickMeeus",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "varmais",
+      "name": "Teemu Tiilikainen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2426164?v=4",
+      "profile": "http://varmais.fi",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vladwalross",
+      "name": "Vladimir Urbano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11561727?v=4",
+      "profile": "https://github.com/vladwalross",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
