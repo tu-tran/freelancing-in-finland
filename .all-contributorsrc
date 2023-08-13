@@ -1,14 +1,6 @@
 {
   "projectName": "freelancing-in-finland",
   "projectOwner": "sam-hosseini",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "none",
   "contributors": [
     {
       "login": "andersnylund",
@@ -59,7 +51,7 @@
       "login": "tuomasj",
       "name": "Tuomas Jomppanen",
       "avatar_url": "https://avatars3.githubusercontent.com/u/24655?v=4",
-      "profile": "http://tuomas.io",
+      "profile": "https://tuomas.io",
       "contributions": [
         "doc"
       ]
@@ -86,7 +78,7 @@
       "login": "olegp",
       "name": "Oleg Podsechin",
       "avatar_url": "https://avatars3.githubusercontent.com/u/141192?v=4",
-      "profile": "http://twitter.com/olegpodsechin",
+      "profile": "https://twitter.com/olegpodsechin",
       "contributions": [
         "doc"
       ]
@@ -95,7 +87,7 @@
       "login": "Aleksefo",
       "name": "Alex Fomushkin",
       "avatar_url": "https://avatars0.githubusercontent.com/u/18084119?v=4",
-      "profile": "http://linkedin.com/in/aleksefo",
+      "profile": "https://linkedin.com/in/aleksefo",
       "contributions": [
         "doc"
       ]
@@ -103,7 +95,7 @@
     {
       "login": "",
       "name": "Jonne Anttila - eAccounting Finland Oy",
-      "avatar_url": "https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/eAccounting_Finland_Oy.png",
+      "avatar_url": "https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/eAccounting_Finland_Oy.png",
       "profile": "https://www.eaccounting.fi/en/",
       "contributions": [
         "doc"
@@ -111,9 +103,9 @@
     },
     {
       "login": "aituri",
-      "name": "aituri",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/66198364?v=4",
-      "profile": "http://aituri.ai",
+      "name": "Petri Väänänen (aituri.ai)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66198364?v=4",
+      "profile": "https://github.com/aituri",
       "contributions": [
         "doc"
       ]
@@ -149,7 +141,7 @@
       "login": "varmais",
       "name": "Teemu Tiilikainen",
       "avatar_url": "https://avatars0.githubusercontent.com/u/2426164?v=4",
-      "profile": "http://varmais.fi",
+      "profile": "https://varmais.fi",
       "contributions": [
         "doc"
       ]
@@ -163,8 +155,123 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "wyozi",
+      "name": "Joonas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4894573?v=4",
+      "profile": "https://github.com/wyozi",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jasaarim",
+      "name": "jasaarim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3259169?v=4",
+      "profile": "https://github.com/jasaarim",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "perlun",
+      "name": "Per Lundberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/630613?v=4",
+      "profile": "http://perlun.eu.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "omidmaldar",
+      "name": "Omid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9104489?v=4",
+      "profile": "https://omidmaldar.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "taseppa",
+      "name": "Tapio Seppälä",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2930680?v=4",
+      "profile": "https://github.com/taseppa",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "IO89",
+      "name": "Ivan Osipov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29254484?v=4",
+      "profile": "https://io89.github.io/markdown-cv/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ogencoglu",
+      "name": "Oguzhan Gencoglu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8182738?v=4",
+      "profile": "http://linkedin.com/in/ogencoglu/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "karimerikanto",
+      "name": "Kari Merikanto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33570772?v=4",
+      "profile": "https://github.com/karimerikanto",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Kylmakalle",
+      "name": "Sergey Akentev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24507532?v=4",
+      "profile": "http://akentev.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "envil",
+      "name": "Viet Ta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/775364?v=4",
+      "profile": "https://www.linkedin.com/in/vietqt/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "maximzavadskiy",
+      "name": "Maxim Zavadskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1636678?v=4",
+      "profile": "https://www.linkedin.com/in/maxim-zavadskiy/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "xixiaofinland",
+      "name": "Xi Xiao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13655323?v=4",
+      "profile": "http://xixiao.info",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "files": [
+    "README.md"
+  ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "commitConvention": "angular",
+  "commitType": "docs"
 }

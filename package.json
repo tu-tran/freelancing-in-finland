@@ -1,6 +1,11 @@
 {
   "dependencies": {
-    "all-contributors-cli": "6.16.0",
-    "markdown-toc": "^1.2.0"
+    "all-contributors-cli": "6.24.0",
+    "markdown-toc": "1.2.0"
+  },
+  "scripts": {
+    "build": "yarn table-of-contents && yarn contributors-list",
+    "table-of-contents": "markdown-toc README.md --bullets '*' -i",
+    "contributors-list": "all-contributors generate"
   }
 }

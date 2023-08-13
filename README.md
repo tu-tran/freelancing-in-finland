@@ -1,7 +1,5 @@
 # Freelancing in Finland
 
-<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="medium reading estimation"></a>
-
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
 <!-- toc -->
@@ -26,9 +24,11 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider buying health insurance](#consider-buying-health-insurance)
+  * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
+  * [Offer yourself daily-allowance when you travel for business](#offer-yourself-daily-allowance-when-you-travel-for-business)
   * [Send your invoices carefully](#send-your-invoices-carefully)
   * [Take out money from your company in the most tax optimal way](#take-out-money-from-your-company-in-the-most-tax-optimal-way)
   * [Ensure that your obligations are fulfilled continuously](#ensure-that-your-obligations-are-fulfilled-continuously)
@@ -37,17 +37,6 @@ The ultimate resource for transitioning to freelancing for software developers �
 * [Final words](#final-words)
 
 <!-- tocstop -->
-
----
-
-[![TALENTED sponsorship banner][TALENTED sponsorship banner image]][TALENTED sponsorship banner link]
-
-[TALENTED sponsorship banner image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/freelancer_banner_talented.gif
-[TALENTED sponsorship banner link]: https://talented.fi/en/independent-contractor/?utm_source=github&utm_campaign=freelancing-in-fi-guide&utm_reference=banner
-
-**TALENTED** is the **EXCLUSIVE** sponsor of Freelancing-in-Finland guide and I'm grateful for their financial contribution 🧡
-
----
 
 ## Introduction
 
@@ -77,7 +66,7 @@ You are the target audience of this guide if:
 * You want to work as an independent freelance software developer
 * You want to establish a limited liability company to offer your freelance services through it
 
-This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/LICENSE) which means **use it at your own risk**,
+This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/LICENSE.md) which means **use it at your own risk**,
 I'm not a lawyer and no statement here should be thought of as legal advice.
 
 ## Preparation - what to do **before** you establish your company
@@ -97,7 +86,7 @@ you don't need to apply for another permit.
 **If you're a non-EU citizen**, depending on your current permit, you may need to apply for another permit.
 
 * If you have a permanent residence permit, you don't need to apply for another permit.
-* If you have a permit of type A or B, you can establish your limited liability company without applying for a new residence permit. This is because under the Aliens Act, an entrepreneur who operates such companies is considered an `employee`.
+* If you have any other type of permit, please contact Migri to get specific advise for your case.
 
 ### Network with freelance brokers and organizations
 
@@ -126,14 +115,18 @@ However, the ranges above are for direct company-to-client sales. If you get con
 by 5-20%, which would be their cut of the hourly rate. This means that, with one intermediary company, you're looking at 65-105€ per hour in non-extraordinary situations.
 
 **List of brokers**:
-* Apply for [Talented](https://talented.fi/en/independent-contractor/) membership to get into their projects, events and Slack community.
+* Fika ☕️ with [Witted](https://witted.com/for-talents/witted-partners) and get into their network.
 * Fika ☕️ with [Thriv](https://www.thriv.dev/) and get into their Slack.
 * Fika ☕️ with [Finitec](https://finitec.fi/) and get into their network.
 * Fika ☕️ with [Siili One](https://one.siili.com) and get into their network.
 * Fika ☕️ with [HiQ](https://hiq.fi/en/subcontracting/) and get into their network.
+* Fika ☕️ with [7n](https://www.7n.com/become-a-7n-consultant/) and get into their network.
 * Register a profile with [Verama](https://verama.com/) to be able to apply to their projects.
+* Register a profile with [Digia Hub](https://digiahub.com) to be able to apply to their projects.
 * Drop [Toughbyte](https://www.toughbyte.com/) a line.
 * Look into [Harnham](https://www.harnham.com/jobs?options=1122,261&page=1) `contract` positions in `nordics`.
+* Apply for an account at [Tingent](https://tingent.inkopio.se/vms/register?action=register) to see their remote gigs in Sweden.
+* Register to [Vahvistus.fi](https://vahvistus.fi/), a network run by Sysart.
 
 **List of aggregate sites**:
 * Create a [job search alert](https://www.linkedin.com/jobs/) on LinkedIn with:
@@ -144,8 +137,6 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
 
 **List of organizations you can introduce yourself to**:
-* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact/customer-service) is a governmental organization whose main purpose is to help Finnish companies.
-A lot of those companies are startups who need software developers. By introducing yourself and your services to a Business Finland advisor, they may be able to connect you with potential startups.
 * [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
 
   > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
@@ -159,7 +150,7 @@ It took me ~6 months from the time I got into the networks to find my first proj
 
 **Steps**:
 * Once you find the right project, check the terms and conditions of the client's contract and run it by a lawyer if you have that available to you either through a union or elsewhere.
-    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/contract-templates/Resource-Hiring-Agreement.docx)
+    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/templates/resource_hiring_agreement.docx)
     for the target audience of this guide and **change its content based on your circumstances**.
 * If you're planning to [apply for startup grant](#apply-for-startup-grant), before you sign any contract, ask them to give you two weeks so that you can apply for startup grant and receive a decision.
 Even though the official estimation is 2 weeks, decision comes much faster in reality (2-4 working days). Once you receive the decision, you can proceed.
@@ -192,7 +183,7 @@ You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete t
 draw up your business plan which includes all necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
-[Enterprise Agency in your city](https://www.uusyrityskeskus.fi/yritysneuvonta/uusyrityskeskukset/) and ask them for an appointment with a _Business Advisor_.
+[Enterprise Agency in your city](https://uusyrityskeskus.fi/apua-yrittajyyteen/alueelliset-keskukset/) and ask them for an appointment with a _Business Advisor_.
 In Helsinki, [_NewCo Helsinki_](https://newcohelsinki.fi/en/) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
 the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
 
@@ -208,7 +199,7 @@ This proof doesn't have to be official. I personally printed a pdf from my netba
 In addition, when applying for startup grant payments later once startup grant is granted, the salary you've taken from your own company does not affect the
 payment application negatively either.
 
-* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+* Apply for startup grant [electronically](https://asiointi.mol.fi/omaasiointi/)
 and you will get an electronic decision within 2 weeks (official estimation). Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 **Steps** for application extension:
@@ -230,7 +221,7 @@ and you will get an electronic decision within 2 weeks (official estimation). Of
     * TE-services will consider whether the business has started more or less according to the original business plan.
     * TE-services will consider whether the already acquired income is enough to support the entrepreneur.
 
-* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/?kieli=fi) (only available in Finnish)
+* Apply for the grant extension [electronically](https://asiointi.mol.fi/omaasiointi/)
 and you will get an electronic decision within 2-4 weeks. Official decision letter should arrive by post soon after the decision is served (~1 week).
 
 ### Quit your job
@@ -256,13 +247,13 @@ to become fully aware of its implications.
 
 **TL;DR of video**: Working under your own name as a private trader (toiminimi) gives you **unlimited** liability and all your personal assets like your home, car, and
 personal savings are up for grabs if worst happens.
-In case of a limited liability company, the liability is *limited* and the company can declare bankruptcy if worst
+In case of a limited liability company, the liability is *limited*, and in the absence of intentional fraud, the company can declare bankruptcy if worst
 happens, and your personal assets are immune from the liability of the company.
 
 
-**How much?** ~275€ for online registration. It's a business cost. Later,
+**How much?** ~240€ for online registration. It's a business cost. Later,
 when your company is registered and accounting and bank account are setup,
-you can claim this ~275€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
+you can claim this ~240€ back from the company as you paid this money from your *personal* bank account even though it was a *business* cost.
 
 **What is the role of Business Information System?**
 
@@ -283,7 +274,7 @@ you'll update your company's information in Business Information System if there
 
 * If you're still on your notice period from the time [you quit your job](#quit-your-job):
     * Get a written permission from your `employer` that it's OK for you to establish your company.
-    * This is because starting a company in the same line of business as your `employer` [might be in violation of your non-competition agreement](https://www.tek.fi/en/services/legal-consulting/legal-data-bank/competing-activities-and-non-competition-agreements).
+    * This is because starting a company in the same line of business as your `employer` might be in violation of your non-competition agreement.
 
 * Choose a company name.
   * Search for your chosen name in [Name Checking Service for Companies](https://nimipalvelu.prh.fi/nipa/en)
@@ -305,6 +296,9 @@ that you feel is most relevant.
   * A lot of companies have their fiscal year the same as `calendar` year and this makes accounting offices really busy during the turn of the year.
 To avoid this busy season, you can choose a fiscal year that ends well before (September) or after (April) the turn of the year.
 
+* Choose your company's number of shares.
+  * I recommend 10,000 shares for the target audience of this guide based on my own accountant's advice.
+
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
@@ -320,11 +314,12 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
   * Employer register ❌, because you don't need it if you're not employing anyone else. The fact that you're employing yourself is irrelevant as you're considered `self-employed`, not an `employee`.
 You can join later, once and if you start employing others.
 
-* Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap) (only available in Finnish)
+* Establish your company online by filing a *startup notification* at [Business Information System](https://asiointi.ytj.fi/ytjap)
+  * I recommend doing this step together with an accountant. It's faster, easier and ensures that the choices you have made from the steps above makes sense in your very particular case and your potential ambitions for the near-future of your company.
+  * Alternatively, you can give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
   * Do not add your email, phone number, or any other information in the public information section of the *startup notification* application.
 This would prevent scammers calling you and selling you a "service", in which you might say "Ok, yes, that's fine" to get rid of them, and they'd start sending you invoices which you have to jump over dozens of
 obstacles to remove yourself from the so called "service" they offered you. They can do that because in Finland, verbal agreement is as binding as writing, which the scammers take advantage of inappropriately.
-  * You can also give power of attorney in Business Information System to an accountant so that they can establish the company on your behalf.
 
 * Once your company is established, you must file a *notification* of beneficial owners in [Business Information System](https://asiointi.ytj.fi/ytjap)
     * The only [*beneficial owner*](https://www.prh.fi/en/kaupparekisteri/beneficial_owner_details.html) will be you (natural person) since you're the only owner of the company.
@@ -371,7 +366,7 @@ general housing allowance is ~410€ per month, tax free, for a studio in Helsin
 
 **Steps**:
 
-* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app) (only available in Finnish).
+* Apply for general housing allowance [electronically](https://asiointi.kela.fi/go_app/).
 * Mention in application that you have received a positive decision to your startup grant application and you have quit your job.
 * Attach your startup grant official decision letter which has come via post to the application.
 * Attach your employment certificate which mentions the final date of your employment to the application.
@@ -407,9 +402,15 @@ a few transactions a month.
 
 ### Find an accountant
 
-**What is it?** Having an accountant is <ins>not mandatory by law</ins>. However, as the CEO of your company, the ultimate and final responsibility for correctness of your books
-and all your company's tax obligations is on **you**, and <ins>when the law comes to you</ins> in the form of random tax inspections carried out by Tax Administration, having had a
-good accountant who have corrected your mistakes and fulfilled your company's tax obligations on time, every month, could prevent potential complications with Tax Administration.
+**What is it?** Having an accountant <ins>isn't mandatory by law</ins>.
+Having an accountant doesn't mean <ins>you can hide behind them</ins> in tax inspections by the Tax Administration.
+As the CEO of your company, the ultimate and absolute responsibility for having everything related to your company correct is **on you and only you**.
+That is why it's important to have a reliable accountant who can correct your mistakes and fulfill your company's obligations on your behalf.
+Because <ins>when the law comes to you</ins> in the form of random tax inspections, you can't go back in time and fix your mistakes.
+
+In addition to that, your accountant can help you do legal tax planning.
+Tax planning means using legal mechanisms to reduce the total tax liability of your company.
+Your accountant has the best understanding of your company and is in the best position to advise you on taxation matters.
 
 **How much?** Varies. Accountants will either charge you hourly or a fixed price, which is based on their estimation of how much time they'll spend per month on your business.
 A freelancing company for the target audience of this guide with no other activities will take at least an hour or two of their time,
@@ -449,31 +450,33 @@ will sell you one without YEL. Because *YEL is the foundation* and a private hea
 
 * `YEL income`:
   * Has absolutely nothing to do with your real world income (salary, benefits, dividends, etc).
-  * Is how much ***coverage*** in social security you would like to have.
-  * You have the freedom to choose between ~8,000€ up to ~180,000€ per year.
+  * Is how much ***coverage*** you will have in social security benefits.
+  * Has a <ins>**minimum**</ins> of ~8,600€ and a <ins>**maximum**</ins> of ~194,500€ per year.
+  * Before 2023, you had complete freedom to choose the minimum.
+  * From 2023, you must [estimate the correct level of YEL income](https://www.varma.fi/en/self-employed/yel-insurance/determination-of-yel-income/) and select it accordingly.
 * `YEL contribution`:
   * Is how much you **pay** for your ***coverage***.
-  * Is ~19% of your `YEL income`, which means you pay ~125€ up to ~2,820€ per month as a business cost.
+  * Is ~19% of your `YEL income`, which means you pay ~1,600€ up to ~36,200€ per year as a business cost.
 
 Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
 [![minimum YEL][minimum YEL image]][minimum YEL link]  |  [![maximum YEL][maximum YEL image]][maximum YEL link]
 
-[minimum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
-[minimum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
+[minimum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/minimum_YEL.png
+[minimum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/minimum_YEL.png
 
-[maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
-[maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
+[maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
+[maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 
-\* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/entrepreneurs-calculator/)
+\* Taken from [Varma's YEL calculator](https://www.varma.fi/en/self-employed/yel-insurance/yel-calculator/)
 
 **Steps**:
 
 * You have 6 months from starting self-employment to buy YEL.
-    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,000€, you do not need to buy YEL yet.
+    * If, however, your company has not had income equal to minimum `YEL income`, i.e. ~8,600€, you do not need to buy YEL yet.
     * When your company gets income above the level of minimum `YEL income`, you'll have to buy YEL within the 6 months mentioned above.
-    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,000€ of income,
-      even if you buy YEL at the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
+    * Even though you have 6 months to buy YEL, if e.g. you had to buy YEL from the 3rd month because that's when your company had more than ~8,600€ of income,
+      even if you buy YEL in the 5th month, you'll have to select the starting date of YEL to be from the 3rd month as that's the date when you were obligated to buy YEL anyway.
 
 * Buy YEL from an YEL insurance provider:
   * [elo](https://www.elo.fi/?sc_lang=en)
@@ -488,15 +491,15 @@ Minimum YEL                |  Maximum YEL
 **What is it?** As a `self-employed` person, your payslip is going to be different than what you used to have as
 an `employee` and practically speaking, you only pay `income tax` and nothing else.
 
-**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and her/his tax card says their tax is 20%.
+**How is the payslip for an `employee`?** Imagine a basic example, in which an `employee` receives 1,000€ salary, and her/his tax card says their tax is 35%.
 
 From the `employee`'s perspective:
 
-1. The employer withholds 20% of 1,000€ as `income tax` => 200€
+1. The employer withholds 35% of 1,000€ as `income tax` => 350€
 2. The employer withholds 7.15% of 1,000€ as `TyEL pension insurance contribution` => 71.5€
-3. The employer withholds 1.25% of 1,000€ as `unemployment insurance contribution` => 12.5€
-4. The employer pays withheld amount of 284€ to Tax Administration and other insurance providers.
-5. The *employee* receives the rest which is 716€.
+3. The employer withholds 1.50% of 1,000€ as `unemployment insurance contribution` => 15.0€
+4. The employer pays withheld amount of 436.5€ to Tax Administration and other insurance providers.
+5. The *employee* receives the rest which is 563.5€.
 
 From the `employer`'s perspective:
 
@@ -507,13 +510,13 @@ From the `employer`'s perspective:
 5. The employer has to pay 1.53% of 1,000€ as `Employers’ health insurance contribution` => 15.3€
 6. The employer pays ~210€ to Tax Administration and other insurance providers.
 
-**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 20%.
+**How is the payslip for a `self-employed`?** Imagine a basic example, in which a `self-employed` person receives 1,000€ salary from their own company, and her/his tax card says their tax is 35%.
 
 From the `self-employed`'s perspective:
 
-1. Their company withholds 20% of 1,000€ as `income tax` => 200€
-2. Their company pays withheld amount of 200€ to Tax Administration.
-3. The *self-employed* receives the rest which is 800€.
+1. Their company withholds 35% of 1,000€ as `income tax` => 350€
+2. Their company pays withheld amount of 350€ to Tax Administration.
+3. The *self-employed* receives the rest which is 650€.
 
 From the company's perspective:
 
@@ -540,10 +543,8 @@ I have received offers from ~200€ up to ~500€ per year from different insura
 **Corporate liability insurance providers**:
 * if [corporate liability insurance](https://www.if.fi/yritysasiakkaat/vakuutukset/vastuuvakuutukset)
   * Insurance offer available in Finnish, Swedish, and English.
-  * Online service available in Finnish, Swedish, and English.
 * OP [corporate liability insurance](https://www.op.fi/corporate-customers/insurance/operational-insurance/liability-insurance)
   * Insurance offer available in Finnish and Swedish.
-  * Online service available in Finnish and Swedish.
 * Lähitapiola [corporate liability insurance](https://www.lahitapiola.fi/yritys/vakuutukset/omaisuus-ja-toiminta/toiminnan-vakuutukset)
   * Insurance offer available in ?
   * Online service available in ?
@@ -585,7 +586,7 @@ You can only apply for earnings-related unemployment allowance if you're part of
 
 
 **How much?** Depends on your `YEL income`. Unemployment law enforces a higher minimum `YEL income` if you wish to be part of an unemployment fund.
-The minimum is ~13,000€ `YEL income`, and with that, membership fee is ~155€ per year.
+In 2023, the minimum level is ~14,100€ per year of `YEL income`, and with that, the membership fee is ~175€ per year.
 
 **When is it necessary?** If you wish to get earnings-related unemployment allowance in case of unemployment.
 
@@ -594,8 +595,8 @@ a job-seeker to be a full-time `employee` again, among other things.
 
 [![unemployment fund paths][unemployment fund paths image]][unemployment fund paths link]
 
-[unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
-[unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
+[unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/unemployment_fund.png
+[unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/unemployment_fund.png
 
 \* Taken from an old brochure of Unemployment Fund for the self-employed
 
@@ -634,12 +635,30 @@ Comparison of health insurance providers:
 | [OP - Comprehensive](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ❌                                                            | ✅                                            | ?                           | Need accident insurance (~200€ per year) |
 | [OP - Extra](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~350€ + 100€                | Need accident insurance (~200€ per year) |
 | [OP - Super](https://www.op.fi/corporate-customers/insurance/personal-insurance/health-insurance) | ✅                                       | ✅                                                            | ✅                                            | ~1,800€                      | Need accident insurance (~200€ per year) |
-| If                                                           | ❌                                       | ?                                                            | ?                                            | ?                           |                                          |
+| If                                                           | ❌                                       | ✅                                                            | ✅                                            | ~ 153€ + 30€ per visit                           |                                          |
 
 **Steps**:
 
 * Contact the insurance provider you chose and get a quote for your specific health insurance package.
 * Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
+
+### Consider getting dental care plan
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+
+**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.5.3 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+
+Some available dental care providers:
+
+* [Mehiläinen](https://www.mehilainen.fi/en/companies/occupational-dental-care)
+* [Oral](https://www.oral.fi/en/information/information-for-fustomers/occupational-dental-care/)
+
+**Steps**:
+
+* Contact the dental care provider and ask for an offer/contract for your company.
+* Sign the contract and provide details of the person (you) to be included in the plan.
+* Book your checkups and/or procedures with your dental care provider's dentist.
+* Either pay yourself or with your company and include the payments into your accounting.
 
 ### Consider selling your personal work-related tools to your company
 
@@ -678,15 +697,15 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2021/)
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
 |                              | Tax-free limit | [Edenred card service commission](https://edenred.fi/en/employer/price-list/#card) | [Smartum card service commission](https://www.smartum.fi/en/smartum-service#costs) | [ePassi service commission](https://www.epassi.fi/en/employer/start-using-epassi) |
 | ---------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| Lunch benefit 🥗              | ~50€ per month  | 2.6% of the balance loaded                                   | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
+| Lunch benefit 🥗              | ~50€ per month  | 2.95% of the balance loaded                                  | 1.5% of the balance loaded                                   | 1.5% of the balance loaded |
 | Sport and cultural benefit 🎭 | 400€ per year   | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 4% of the balance loaded |
-| Commuting benefit 🚌          | (0 to 300€) and (751€ to 3,500€) per year | 4% of the balance loaded                                     | 5% of the balance loaded | 3% of the balance loaded |
+| Commuting benefit 🚌          | 3,400€ per year | 5.2% of the balance loaded                                   | 5% of the balance loaded                                     | 3% of the balance loaded |
 
 * Phone benefit: you can pay your phone bill from company if you offer it as a 20€-phone-benefit every month to yourself.
 Phone bills are business cost when you only and only use it for business and not in your personal life. If you'd like to use a single subscription for both personal and business,
@@ -708,13 +727,40 @@ Therefore, in March, your salary must be 2.22€. When you deduct your 10% tax f
 **Should you offer yourself benefits above the tax-free limit?** You can but it will be similar to taking salary in case of a `self-employed` person.
 
 As seen in [understanding your new personal taxation situation](#understand-your-new-personal-taxation-situation), the `self-employed` only pay `income tax` on their income and nothing else.
-So if you offer yourself 1,000€ salary and your tax rate is 20%, you get 800€. If you offer yourself 1,000€ as benefit, you will also get 800€.
+So if you offer yourself 1,000€ salary and your tax rate is 35%, you get 650€. If you offer yourself 1,000€ as benefit, you will also get 650€.
 
 **Who ensures that you do not go above the tax-free limit?** Your company, the `legal entity`, must ensure that its owner, you as the `natural person`, is not offered benefits above the tax-free
 limits, because if you are offered, it must be reported and taxed. This is important, because you as the representative of the company can order even 10,000€ of Sport and cultural benefit, but
 if you go ahead and use it all within that calendar year, you must report it and pay tax on the 9,600€ part.
 
+### Offer yourself daily-allowance when you travel for business
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47405/tax-exempt-allowances-in-2021-for-business-travel/)
+
+**What is it?** When you travel for business, your company pays for obvious costs like accomodation, flight tickets and transportation to-and-from the airport.
+However, not all costs are obvious and easily provable by a receipt like the ones mentioned before.
+When you travel, your costs are increased because you are not familiar with the environment and not every business might offer you receipts like they do in Finland.
+Daily-allowance fixes this increased costs issue.
+
+**How much?** Between 45€ and 100€ per day, tax-free, depending on the destination country.
+
+For example, let's say you travel to a 5-day Python conference in Spain (65€/day).
+Once you come back to Finland, you are eligible for 5 days of daily-allowance (325€).
+
+**Steps**:
+* You need to document your business actions in a daily journal.
+* After each day, write down the business actions you took.
+  * For example, if you're traveling to Spain to network with freelance developers, write down who you met and what you discussed on a high level.
+  * For example, if you're going to a 5-day Python conference, write down what happened in the conference on that day on a high level.
+* If you don't take business actions during a particular day, you don't need to document it, and you won't get daily allowance for that day.
+* After the trip, send your company a travel invoice.
+  * Choose the destination country in your company's accounting software to get the exact daily-allowance fee.
+  * Write down the number of days in your daily journal in the travel invoice.
+  * Attach the daily journal.
+
 ### Send your invoices carefully
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
 
 **In general**:
 
@@ -730,9 +776,9 @@ if you go ahead and use it all within that calendar year, you must report it and
 * You must add 24% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT is valid by [checking it in VIES](http://ec.europa.eu/taxation_customs/vies/?locale=en)
-    * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
-    * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
+    * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must mention the exact **`Reverse Charge`** words in your invoice.
+    * You must state that VAT is to be accounted for by the EU company. However, you must **not** mention the VAT rate **nor** the VAT amount to be accounted for by the EU company. This is explained in details in sections 6.1.9 and 6.1.10 of [VAT invoice requirements](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements2).
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
 
@@ -747,10 +793,10 @@ However, an overview of fundamentals can be illustrated.
 
 [![limited liability company taxation fundamentals][limited liability company taxation fundamentals image]][limited liability company taxation fundamentals link]
 
-[limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
-[limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
+[limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
+[limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
-\* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+\* Taken from page 73 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 
 ### Ensure that your obligations are fulfilled continuously
 
@@ -768,11 +814,11 @@ Therefore, check before the deadlines if the VAT reports have been done.
 * **Send EU VAT Recapitulative Statement reports**, *recurring* obligation: if you're invoicing a EU company, you need to [report its details](https://www.vero.fi/en/businesses-and-corporations/about-corporate-taxes/vat/international-commerce/intra-community-trade/eu-vat-recapitulative-statement/).
 This obligation is similar to *VAT reports* in the sense that it's fully your responsibility that this report is done correctly and on time, even though your accountant will do this for you.
 
-* **Send payroll reports**, *recurring* obligation: if you're taking out salary, *Employer Contribution report* and *Income Register report* must be done. Your accountant can do this for you
-or you can do it yourself in the [Palkka.fi](https://www.palkka.fi/) service provided by the Tax administration.
+* **Send payroll reports**, *recurring* obligation: if you're taking out salary, *Employer Contribution report* and *Income Register report* must be done.
+If you're taking out dividends, specific *Dividend report* must be done. Your accountant can do these for you.
 
 * **Perform monthly bookkeeping**, *recurring* activity: even though there's no legal obligation to perform bookkeeping every month, accountants insist it is necessary and I trust their judgement
-on this. If in a typical softwar project we regularly do backlog grooming so that the backlog wouldn't become a mess, it is understandable for me why accountants would want to resolve all transactions
+on this. If in a typical software project we regularly do backlog grooming so that the backlog wouldn't become a mess, it is understandable for me why accountants would want to resolve all transactions
 every month when it's fresh in everyone's mind.
 
 * **Submit financial statement and corporate income tax return**, *recurring* obligation: after the fiscal year ends, within 4 months you must submit
@@ -798,7 +844,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 * [Capital taxation of individuals in Finland - 2015](https://www.porssisaatio.fi/wp-content/uploads/2015/08/vero_opas_2015_eng_final_web.pdf)
 
 Governmental organizations to provide support for you:
@@ -813,29 +859,47 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://andersnylund.com"><img src="https://avatars0.githubusercontent.com/u/18005239?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anders Nylund</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=andersnylund" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://halminen.dev"><img src="https://avatars1.githubusercontent.com/u/1327481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ville Halminen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=v-hal" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://keybase.io/onnimonni"><img src="https://avatars1.githubusercontent.com/u/5691777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onni Hakala</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=onnimonni" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/vandelay"><img src="https://avatars1.githubusercontent.com/u/47499?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dom Padden</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vandelay" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.ardcoras.fi/"><img src="https://avatars2.githubusercontent.com/u/202163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jyri-Petteri Paloposki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=ZeiP" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://tuomas.io"><img src="https://avatars3.githubusercontent.com/u/24655?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tuomas Jomppanen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=tuomasj" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/hankidesign/"><img src="https://avatars3.githubusercontent.com/u/1816448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo Salomäki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=HankiDesign" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://twitter.com/VilleImmonen"><img src="https://avatars3.githubusercontent.com/u/497214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ville Immonen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=fson" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://twitter.com/olegpodsechin"><img src="https://avatars3.githubusercontent.com/u/141192?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oleg Podsechin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=olegp" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://linkedin.com/in/aleksefo"><img src="https://avatars0.githubusercontent.com/u/18084119?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Fomushkin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Aleksefo" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.eaccounting.fi/en/"><img src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/eAccounting_Finland_Oy.png?s=100" width="100px;" alt=""/><br /><sub><b>Jonne Anttila - eAccounting Finland Oy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://aituri.ai"><img src="https://avatars3.githubusercontent.com/u/66198364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aituri</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=aituri" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/pkalliok"><img src="https://avatars3.githubusercontent.com/u/2952067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Panu Kalliokoski</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pkalliok" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Trosterud"><img src="https://avatars2.githubusercontent.com/u/20249331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sindre</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Trosterud" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/YannickMeeus"><img src="https://avatars0.githubusercontent.com/u/588607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yannick Meeus</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3AYannickMeeus" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/vladwalross"><img src="https://avatars.githubusercontent.com/u/11561727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vladimir Urbano</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vladwalross" title="Documentation">📖</a> <a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3Avladwalross" title="Bug reports">🐛</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://andersnylund.com"><img src="https://avatars0.githubusercontent.com/u/18005239?v=4?s=100" width="100px;" alt="Anders Nylund"/><br /><sub><b>Anders Nylund</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=andersnylund" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://halminen.dev"><img src="https://avatars1.githubusercontent.com/u/1327481?v=4?s=100" width="100px;" alt="Ville Halminen"/><br /><sub><b>Ville Halminen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=v-hal" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://keybase.io/onnimonni"><img src="https://avatars1.githubusercontent.com/u/5691777?v=4?s=100" width="100px;" alt="Onni Hakala"/><br /><sub><b>Onni Hakala</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=onnimonni" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vandelay"><img src="https://avatars1.githubusercontent.com/u/47499?v=4?s=100" width="100px;" alt="Dom Padden"/><br /><sub><b>Dom Padden</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vandelay" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.ardcoras.fi/"><img src="https://avatars2.githubusercontent.com/u/202163?v=4?s=100" width="100px;" alt="Jyri-Petteri Paloposki"/><br /><sub><b>Jyri-Petteri Paloposki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=ZeiP" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://tuomas.io"><img src="https://avatars3.githubusercontent.com/u/24655?v=4?s=100" width="100px;" alt="Tuomas Jomppanen"/><br /><sub><b>Tuomas Jomppanen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=tuomasj" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/hankidesign/"><img src="https://avatars3.githubusercontent.com/u/1816448?v=4?s=100" width="100px;" alt="Timo Salomäki"/><br /><sub><b>Timo Salomäki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=HankiDesign" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/VilleImmonen"><img src="https://avatars3.githubusercontent.com/u/497214?v=4?s=100" width="100px;" alt="Ville Immonen"/><br /><sub><b>Ville Immonen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=fson" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/olegpodsechin"><img src="https://avatars3.githubusercontent.com/u/141192?v=4?s=100" width="100px;" alt="Oleg Podsechin"/><br /><sub><b>Oleg Podsechin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=olegp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://linkedin.com/in/aleksefo"><img src="https://avatars0.githubusercontent.com/u/18084119?v=4?s=100" width="100px;" alt="Alex Fomushkin"/><br /><sub><b>Alex Fomushkin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Aleksefo" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.eaccounting.fi/en/"><img src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/eAccounting_Finland_Oy.png?s=100" width="100px;" alt="Jonne Anttila - eAccounting Finland Oy"/><br /><sub><b>Jonne Anttila - eAccounting Finland Oy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aituri"><img src="https://avatars.githubusercontent.com/u/66198364?v=4?s=100" width="100px;" alt="Petri Väänänen (aituri.ai)"/><br /><sub><b>Petri Väänänen (aituri.ai)</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=aituri" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pkalliok"><img src="https://avatars3.githubusercontent.com/u/2952067?v=4?s=100" width="100px;" alt="Panu Kalliokoski"/><br /><sub><b>Panu Kalliokoski</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pkalliok" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Trosterud"><img src="https://avatars2.githubusercontent.com/u/20249331?v=4?s=100" width="100px;" alt="Sindre"/><br /><sub><b>Sindre</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Trosterud" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YannickMeeus"><img src="https://avatars0.githubusercontent.com/u/588607?v=4?s=100" width="100px;" alt="Yannick Meeus"/><br /><sub><b>Yannick Meeus</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3AYannickMeeus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4?s=100" width="100px;" alt="Teemu Tiilikainen"/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vladwalross"><img src="https://avatars.githubusercontent.com/u/11561727?v=4?s=100" width="100px;" alt="Vladimir Urbano"/><br /><sub><b>Vladimir Urbano</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vladwalross" title="Documentation">📖</a> <a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3Avladwalross" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wyozi"><img src="https://avatars.githubusercontent.com/u/4894573?v=4?s=100" width="100px;" alt="Joonas"/><br /><sub><b>Joonas</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=wyozi" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jasaarim"><img src="https://avatars.githubusercontent.com/u/3259169?v=4?s=100" width="100px;" alt="jasaarim"/><br /><sub><b>jasaarim</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=jasaarim" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://perlun.eu.org"><img src="https://avatars.githubusercontent.com/u/630613?v=4?s=100" width="100px;" alt="Per Lundberg"/><br /><sub><b>Per Lundberg</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=perlun" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://omidmaldar.github.io/"><img src="https://avatars.githubusercontent.com/u/9104489?v=4?s=100" width="100px;" alt="Omid"/><br /><sub><b>Omid</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=omidmaldar" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/taseppa"><img src="https://avatars.githubusercontent.com/u/2930680?v=4?s=100" width="100px;" alt="Tapio Seppälä"/><br /><sub><b>Tapio Seppälä</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=taseppa" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://io89.github.io/markdown-cv/"><img src="https://avatars.githubusercontent.com/u/29254484?v=4?s=100" width="100px;" alt="Ivan Osipov"/><br /><sub><b>Ivan Osipov</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=IO89" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/ogencoglu/"><img src="https://avatars.githubusercontent.com/u/8182738?v=4?s=100" width="100px;" alt="Oguzhan Gencoglu"/><br /><sub><b>Oguzhan Gencoglu</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=ogencoglu" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/karimerikanto"><img src="https://avatars.githubusercontent.com/u/33570772?v=4?s=100" width="100px;" alt="Kari Merikanto"/><br /><sub><b>Kari Merikanto</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=karimerikanto" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://akentev.com"><img src="https://avatars.githubusercontent.com/u/24507532?v=4?s=100" width="100px;" alt="Sergey Akentev"/><br /><sub><b>Sergey Akentev</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Kylmakalle" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/vietqt/"><img src="https://avatars.githubusercontent.com/u/775364?v=4?s=100" width="100px;" alt="Viet Ta"/><br /><sub><b>Viet Ta</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=envil" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/maxim-zavadskiy/"><img src="https://avatars.githubusercontent.com/u/1636678?v=4?s=100" width="100px;" alt="Maxim Zavadskiy"/><br /><sub><b>Maxim Zavadskiy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=maximzavadskiy" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://xixiao.info"><img src="https://avatars.githubusercontent.com/u/13655323?v=4?s=100" width="100px;" alt="Xi Xiao"/><br /><sub><b>Xi Xiao</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=xixiaofinland" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
@@ -843,19 +907,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ## Final words
 
 Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know [how to make money](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) from this guide when I launched it 😄
-and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
+  * **I wanted to make money**, and I managed to do it with a few sponsorship deals.
+  I'm happy I've reached this goal 😊
 
-  * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
-If you're interested to hear about that and follow my journey,
-you can [follow me on twitter](https://twitter.com/sam_hosseini_) 🐦
+  * **I wanted to get more twitter followers**, and +100 people did [follow me](https://twitter.com/sam_hosseini_) because of this guide 😊
+That's more than I could have asked for. Many thanks to each and every one of you 🙌🏼
 
 * Selfless reasons:
   * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.
